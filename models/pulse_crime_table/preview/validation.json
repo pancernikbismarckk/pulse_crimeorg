@@ -1,0 +1,213 @@
+{
+  "files": {
+    "fbx": [
+      "pulse_crime_table_col",
+      "pulse_crime_table_lod0",
+      "pulse_crime_table_lod1",
+      "pulse_crime_table_lod2"
+    ],
+    "textures": {
+      "pbr/pulse_crime_table_ao.png": "2048x2048 L",
+      "pbr/pulse_crime_table_basecolor.png": "2048x2048 RGB",
+      "pbr/pulse_crime_table_emissive.png": "2048x2048 RGB",
+      "pbr/pulse_crime_table_metallic.png": "2048x2048 L",
+      "pbr/pulse_crime_table_normal_dx.png": "2048x2048 RGB",
+      "pbr/pulse_crime_table_normal_gl.png": "2048x2048 RGB",
+      "pbr/pulse_crime_table_opacity.png": "2048x2048 L",
+      "pbr/pulse_crime_table_orm.png": "2048x2048 RGB",
+      "pbr/pulse_crime_table_roughness.png": "2048x2048 L",
+      "gta/pulse_crime_table_d.png": "2048x2048 RGBA",
+      "gta/pulse_crime_table_n.png": "2048x2048 RGB",
+      "gta/pulse_crime_table_s.png": "2048x2048 RGB"
+    },
+    "pulse_crime_table_lod0.fbx": [
+      "pulse_crime_table_lod0"
+    ],
+    "pulse_crime_table_lod1.fbx": [
+      "pulse_crime_table_lod1"
+    ],
+    "pulse_crime_table_lod2.fbx": [
+      "pulse_crime_table_lod2"
+    ],
+    "pulse_crime_table_col.fbx": [
+      "pulse_crime_table_col"
+    ]
+  },
+  "checks": {
+    "pulse_crime_table_lod0": {
+      "tris": 3475,
+      "verts": 2166,
+      "materials": [
+        "pulse_crime_table_main",
+        "pulse_crime_table_emissive",
+        "pulse_crime_table_glass"
+      ],
+      "uv_layers": [
+        "UVMap"
+      ],
+      "location": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "rotation": [
+        0.0,
+        -0.0,
+        0.0
+      ],
+      "scale": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "bbox_min": [
+        -0.75,
+        -0.425,
+        0.0
+      ],
+      "bbox_max": [
+        0.75,
+        0.425,
+        1.065
+      ],
+      "tri_limit": 10000,
+      "tri_ok": true,
+      "uv_overlap_texels": 0,
+      "uv_covered_texels": 3121387,
+      "uv_corners_outside_0_1": 0,
+      "backface_hits": "0 / 4421 rays",
+      "transform_identity": true
+    },
+    "pulse_crime_table_lod1": {
+      "tris": 1068,
+      "verts": 771,
+      "materials": [
+        "pulse_crime_table_main",
+        "pulse_crime_table_emissive",
+        "pulse_crime_table_glass"
+      ],
+      "uv_layers": [
+        "UVMap"
+      ],
+      "location": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "rotation": [
+        0.0,
+        -0.0,
+        0.0
+      ],
+      "scale": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "bbox_min": [
+        -0.75,
+        -0.425,
+        0.0
+      ],
+      "bbox_max": [
+        0.75,
+        0.425,
+        1.065
+      ],
+      "tri_limit": 5000,
+      "tri_ok": true,
+      "uv_overlap_texels": 0,
+      "uv_covered_texels": 2780934,
+      "uv_corners_outside_0_1": 0,
+      "backface_hits": "0 / 4433 rays",
+      "transform_identity": true
+    },
+    "pulse_crime_table_lod2": {
+      "tris": 259,
+      "verts": 220,
+      "materials": [
+        "pulse_crime_table_main",
+        "pulse_crime_table_emissive",
+        "pulse_crime_table_glass"
+      ],
+      "uv_layers": [
+        "UVMap"
+      ],
+      "location": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "rotation": [
+        0.0,
+        -0.0,
+        0.0
+      ],
+      "scale": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "bbox_min": [
+        -0.75,
+        -0.425,
+        0.0
+      ],
+      "bbox_max": [
+        0.75,
+        0.425,
+        1.065
+      ],
+      "tri_limit": 1000,
+      "tri_ok": true,
+      "uv_overlap_texels": 0,
+      "uv_covered_texels": 2145771,
+      "uv_corners_outside_0_1": 0,
+      "backface_hits": "0 / 4357 rays",
+      "transform_identity": true
+    },
+    "pulse_crime_table_col": {
+      "tris": 96,
+      "verts": 64,
+      "materials": [
+        "pulse_crime_table_col"
+      ],
+      "uv_layers": [
+        "UVMap"
+      ],
+      "location": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "rotation": [
+        0.0,
+        -0.0,
+        0.0
+      ],
+      "scale": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "bbox_min": [
+        -0.75,
+        -0.425,
+        0.0
+      ],
+      "bbox_max": [
+        0.75,
+        0.425,
+        1.0126
+      ],
+      "transform_identity": true
+    },
+    "pivot": {
+      "min_z": 0.0,
+      "centre_x": 0.0,
+      "centre_y": 0.0,
+      "ok": true
+    }
+  },
+  "all_ok": true
+}

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CMapTypes>
+ <extensions/>
+ <archetypes>
+  <Item type="CBaseArchetypeDef">
+   <lodDist value="120.00000000"/>
+   <flags value="32"/>
+   <specialAttribute value="0"/>
+   <bbMin x="-0.75000000" y="-0.42500000" z="0.00000000"/>
+   <bbMax x="0.75000000" y="0.42500000" z="1.06500000"/>
+   <bsCentre x="0.00000000" y="0.00000000" z="0.53250000"/>
+   <bsRadius value="1.01325281"/>
+   <hdTextureDist value="20.00000000"/>
+   <name>pulse_crime_table</name>
+   <textureDictionary>pulse_crime_table</textureDictionary>
+   <clipDictionary/>
+   <drawableDictionary/>
+   <physicsDictionary/>
+   <assetType>ASSET_TYPE_DRAWABLE</assetType>
+   <assetName>pulse_crime_table</assetName>
+   <extensions/>
+  </Item>
+ </archetypes>
+ <name>pulse_crime_table</name>
+ <dependencies/>
+ <compositeEntityTypes/>
+</CMapTypes>
